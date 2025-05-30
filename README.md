@@ -1,4 +1,4 @@
-# MiRNA
+# miRNA-Target-Identification.
 We developed an ATTbiLSTM-MMP, including Conv1D blocks, attention block, and multi-kernel max-pooling layers, to improve the accuracy of identifying important biomarkers.
 Our datasets are obtained from two datasets in two studies, DeepMirTar (https://academic.oup.com/bioinformatics/article/34/22/3781/5026656) and miRAW (https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006185), and refer to a study miTAR (https://doi.org/10.1186/s12859-021-04026-6)
 
